@@ -1,0 +1,27 @@
+.semsem{
+    color: rgb(193, 145, 12);
+    border: solid;
+    width: 500px;
+    height: 600px;
+
+}
+#helele{
+    color: rgb(194, 13, 13);
+    background-color: rgb(66, 66, 162);
+    text-align: center;
+    
+}
+#ey{ width: 200px;
+    height: 200px;
+    margin-left: 20%;
+
+}
+#dede{
+    color: rgb(142, 116, 116);
+    margin-left: 30%;
+    
+
+}
+#dede:hover{
+    background-color: rgb(97, 125, 102);
+}
